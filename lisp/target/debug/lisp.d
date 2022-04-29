@@ -1,0 +1,1 @@
+/home/marcelo/Documents/codigos/Rust/List-Rust/lisp/target/debug/lisp: /home/marcelo/Documents/codigos/Rust/List-Rust/lisp/src/main.rs /home/marcelo/Documents/codigos/Rust/List-Rust/lisp/src/sintaxe.rs
